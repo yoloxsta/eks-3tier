@@ -15,4 +15,6 @@ rancher ==> https://oopflow.medium.com/setup-install-rancher-onto-existing-kuber
 rancher ==> https://enix.io/en/blog/rancher-2-three-installation-methods/
 
 rancher on eks ==> https://purushothamkdr453.medium.com/installing-rancher-on-aws-eks-cluster-ec6199e297e4
+
+rancher on eks ==> https://github.com/cloudtechmasters/deploy-Rancher-on-the-EKS
 #
