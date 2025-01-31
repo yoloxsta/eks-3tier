@@ -11,4 +11,6 @@ https://medium.com/@muppedaanvesh/a-hand-on-guide-to-vault-in-kubernetes-%EF%B8%
 rancher ==> https://suryansh-mathema.medium.com/rancher-installation-and-importing-of-existing-cluster-b25dca669717
 
 rancher ==> https://oopflow.medium.com/setup-install-rancher-onto-existing-kubernetes-cluster-for-high-availability-7351f0284592
+
+rancher ==> https://enix.io/en/blog/rancher-2-three-installation-methods/
 #
