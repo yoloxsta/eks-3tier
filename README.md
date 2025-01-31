@@ -13,4 +13,6 @@ rancher ==> https://suryansh-mathema.medium.com/rancher-installation-and-importi
 rancher ==> https://oopflow.medium.com/setup-install-rancher-onto-existing-kubernetes-cluster-for-high-availability-7351f0284592
 
 rancher ==> https://enix.io/en/blog/rancher-2-three-installation-methods/
+
+rancher on eks ==> https://purushothamkdr453.medium.com/installing-rancher-on-aws-eks-cluster-ec6199e297e4
 #
