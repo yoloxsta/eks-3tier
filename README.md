@@ -9,4 +9,6 @@ https://github.com/LondheShubham153/TWSThreeTierAppChallenge
 https://medium.com/@muppedaanvesh/a-hand-on-guide-to-vault-in-kubernetes-%EF%B8%8F-1daf73f331bd
 
 rancher ==> https://suryansh-mathema.medium.com/rancher-installation-and-importing-of-existing-cluster-b25dca669717
+
+rancher ==> https://oopflow.medium.com/setup-install-rancher-onto-existing-kubernetes-cluster-for-high-availability-7351f0284592
 #
