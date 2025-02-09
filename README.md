@@ -18,4 +18,6 @@ rancher on eks ==> https://purushothamkdr453.medium.com/installing-rancher-on-aw
 
 rancher on eks ==> https://github.com/cloudtechmasters/deploy-Rancher-on-the-EKS
 
+minikube => https://medium.com/@subhampradhan966/kubernetes-end-to-end-project-with-deployment-of-django-notes-application-efc41b77f43b
+
 #
